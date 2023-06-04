@@ -1,0 +1,22 @@
+Professor computer science # 15.625 ms
+Research program # 0 ms
+Machine learning # 0 ms
+Statistics probability # 0 ms
+Scholarship honors program # 15.625
+Once upon a time # 0 ms
+Search query random # 0 ms
+Time complexity # 0 ms
+Data sheet table diagram # 0 ms
+Graph solution problem # 0 ms
+P vs np problem solution # 15.625 ms
+Discussion forum board answer reply admin # 15.625
+Admin privileges access # 0 ms
+coffee # 0 ms
+mountain # 15.625 ms
+Spotify music api # 0 ms
+League of legends # 0 ms
+Sound wave wave form wave table frequency manipulation # 0 ms
+Gaming gamer games society video video games # 15.625 ms
+Chu papi muneno # 78.125 ms
+
+Explanation for slower searches: We believe that some search queries were slower than others because they were not as frequent compared to other terms in the document set 
